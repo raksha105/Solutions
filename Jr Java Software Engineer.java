@@ -206,5 +206,5 @@ In other words, How to mock DB in JUnit test for service method.
 If not possible give the reason else list cases for the different scenario. 
 
 Use mock db objects and unit test every business logic using the service layer with db.
-Prefereably in-memory db and mock service for create, update, insert and run dew queries.It is best to mock db layer and write separate tests with
+Prefereably in-memory db and mock service for create, update, insert and run few queries.It is best to mock db layer and write separate tests with
 service layer logic.
